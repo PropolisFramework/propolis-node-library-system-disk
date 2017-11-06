@@ -1,2 +1,2 @@
-# propolis-node-system-disk
+# propolis-node-library-system-disk
 Propolis: Library: System: Disk Information
